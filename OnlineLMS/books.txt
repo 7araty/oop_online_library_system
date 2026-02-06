@@ -1,0 +1,11 @@
+1001|CppProgramming|Bjarne|available|none
+1002|JavaBasics|James|available|none
+1003|DataStructures|Mark|borrowed|none
+1004|OperatingSystems|Silberschatz|available|none
+1005|DatabaseSystems|Elmasri|borrowed|none
+1006|NetworkingTanenbaum|Andrew|available|none
+1007|CleanCode Martin|available|none
+1008|Algorithms|CLRS|borrowed|none
+1009|WebDesign|Duckett|available|none
+1010|ai_russell|russell|available|none
+1010|OOP|dennis|available|none
